@@ -1,6 +1,6 @@
 #Here We define a Function that will return an array with user specified inputs 
-#Note that the range in this example is [0,1000] for either the size of the array or it's elements 
-#The boolean variables is handy where its the paired with the constraint 
+#Note that the range in this example is [0,1000] for either the size of the array or its elements 
+#The boolean variables are handy where they are paired with the constraints 
 
 def ar():
     My_List= list()
