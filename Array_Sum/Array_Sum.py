@@ -24,7 +24,7 @@ def simpleArraySum(l):
          Sum += l[i]
                 
      return(Sum)
-if__name__="main"
-New_List=ar()
-List_Sum= simpleArraySum(New_List)
-print(List_Sum)
+if__name__=='__main__'
+ New_List=ar()
+ List_Sum= simpleArraySum(New_List)
+ print('The array Sum is: ',List_Sum)
